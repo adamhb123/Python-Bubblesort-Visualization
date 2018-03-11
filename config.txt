@@ -1,0 +1,11 @@
+#The amount of numbers generated:
+genLen:100
+
+#High amounts like 10000 give you 
+#an idea as to why we don't use
+#bubble sorting with large amounts
+#of data
+
+#The max value each number can be:
+genMax:20
+
